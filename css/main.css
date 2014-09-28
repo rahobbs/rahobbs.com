@@ -6,29 +6,29 @@
 
 /* Global Reset */
 body {
-	background-color:#3e0659;	
+	background-color: white;	
 }
 
 h1 {								/*used in nav bar*/
 	margin: 0px;
 	padding: 30px;
-	font-family:'Balthazar',Verdana,Helvetica,Arial,sans-serif;
+	font-family:'Lato',Verdana,Helvetica,Arial,sans-serif;
 	font-size: 28pt;
-	color: #ffffff;
+	color: #3f51b5;
 	margin-left: 0;
     padding-left: 0;
 
 }
 
 .lead-in {
-    color: #A79787;
+    color: #3f51b5;
     font-family:'Muli',Verdana,Helvetica,Arial,sans-serif;
     font-size: 14pt;
     font-weight: bold;
 }
 
 h2{								/*Individual Page headings*/
-	color: #FFFFFF;
+	color: #3f51b5;
 	font-family:'Muli',Verdana,Helvetica,Arial,sans-serif;
 	font-weight: 400;
 }
@@ -97,13 +97,13 @@ p{
 
 /*Links*/
 a {
-    color: #ffffff;
-    text-decoration:none;
+    color: #00bcd4;
+    text-decoration:underline;
 }
 
 a:hover {
-    text-decoration:none;
-    color:#692664;
+    text-decoration:underline;
+    color:#9c27b0;
 }
 
 /*****************************************************************************/
