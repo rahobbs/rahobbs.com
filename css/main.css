@@ -49,7 +49,7 @@ p{
 /* NavBar Styling */
 .cssmenu ul {
 	list-style-type:none;
-	width:60%;
+  width:80%;
 	height:25px;
 	font-size:14pt;
 	font-family:'Muli',Verdana,Helvetica,Arial,sans-serif;
@@ -91,7 +91,7 @@ p{
 	color: #A79787;
 	margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 80%;
     margin-top: 60%;
 }
 
