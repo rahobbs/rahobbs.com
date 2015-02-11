@@ -24,9 +24,12 @@ body {
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
 
-body{
-    background-image: url('../Ctexture.png');
-    
+#cyanBody{
+    background-image: url('../Ctexture.png');    
+}
+
+#magentaBody{
+    background-image: url('../Mtexture.png');
 }
 
 h1{
