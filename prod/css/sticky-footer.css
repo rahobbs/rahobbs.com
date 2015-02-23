@@ -20,3 +20,13 @@ body {
 }
 
 
+/* Custom styles
+-------------------------------------------------- */
+
+#content-container {
+  width: 75%;
+}
+
+.mainContent{
+  margin-top: 5%;
+}

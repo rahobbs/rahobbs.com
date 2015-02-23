@@ -1172,7 +1172,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: 'Merriweather', serif;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -4392,7 +4392,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #333;
+  color: #38bdba;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
@@ -4433,7 +4433,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #333;
+    color: #38bdba;
     background-color: transparent;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
@@ -4453,14 +4453,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #eff3cd;
 }
 .navbar-default .navbar-link:hover {
-  color: #333;
+  color: #38bdba;
 }
 .navbar-default .btn-link {
   color: #eff3cd;
 }
 .navbar-default .btn-link:hover,
 .navbar-default .btn-link:focus {
-  color: #333;
+  color: #38bdba;
 }
 .navbar-default .btn-link[disabled]:hover,
 fieldset[disabled] .navbar-default .btn-link:hover,
