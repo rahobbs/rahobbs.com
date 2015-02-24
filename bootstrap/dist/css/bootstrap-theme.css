@@ -69,28 +69,28 @@
   background-image: none;
 }
 .btn-primary {
-  background-image: -webkit-linear-gradient(top, #337ab7 0%, #265a88 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#265a88));
-  background-image:         linear-gradient(to bottom, #337ab7 0%, #265a88 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff265a88', GradientType=0);
+  background-image: -webkit-linear-gradient(top, #514470 0%, #352d4a 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#514470), to(#352d4a));
+  background-image:         linear-gradient(to bottom, #514470 0%, #352d4a 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff514470', endColorstr='#ff352d4a', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
   background-repeat: repeat-x;
-  border-color: #245580;
+  border-color: #312944;
 }
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #265a88;
+  background-color: #352d4a;
   background-position: 0 -15px;
 }
 .btn-primary:active,
 .btn-primary.active {
-  background-color: #265a88;
-  border-color: #245580;
+  background-color: #352d4a;
+  border-color: #312944;
 }
 .btn-primary.disabled,
 .btn-primary:disabled,
 .btn-primary[disabled] {
-  background-color: #265a88;
+  background-color: #352d4a;
   background-image: none;
 }
 .btn-success {
@@ -278,10 +278,10 @@
   background-repeat: repeat-x;
 }
 .progress-bar {
-  background-image: -webkit-linear-gradient(top, #337ab7 0%, #286090 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#286090));
-  background-image:         linear-gradient(to bottom, #337ab7 0%, #286090 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff286090', GradientType=0);
+  background-image: -webkit-linear-gradient(top, #514470 0%, #3a3150 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#514470), to(#3a3150));
+  background-image:         linear-gradient(to bottom, #514470 0%, #3a3150 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff514470', endColorstr='#ff3a3150', GradientType=0);
   background-repeat: repeat-x;
 }
 .progress-bar-success {
