@@ -6,7 +6,7 @@ html {
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   padding-top: 50px;
 }
 .footer {
@@ -24,9 +24,18 @@ body {
 -------------------------------------------------- */
 
 #content-container {
-  width: 75%;
+  width: 70%;
 }
 
 .mainContent{
   margin-top: 5%;
+}
+
+.socialIcons{
+  text-align: center;
+  margin: 1%;
+}
+
+.icons{
+  margin:2%;
 }
