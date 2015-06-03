@@ -2,7 +2,7 @@
 layout:     post
 title:      My very first Android App
 date:       2015-06-03 11:21:29
-summary:    I just published my first app to the Google Play store.
+summary:    I just published my first app to the Google Play store...
 categories: android
 ---
 
