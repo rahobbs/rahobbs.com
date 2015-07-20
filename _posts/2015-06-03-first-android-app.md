@@ -2,7 +2,7 @@
 layout:     post
 title:      My very first Android App
 date:       2015-06-03 11:21:29
-summary:    I just published my first app to the Google Play store...
+summary:    
 categories: android
 ---
 
@@ -12,8 +12,8 @@ I just published my first app to the Google Play store. <a href="https://play.go
 
 To  resolve this, I added the following to the \<activity\> section AndroidManifest.xml:
 
-<div class="highlight"><pre><code class="language-xml" data-lang="xml">
-	<span class="nl">android:configChanges =</span> <span class="sc">"orientation|screenSize"</span></code></pre></div>
+<pre><code class="xml">
+android:configChanges = "orientation|screenSize"</code></pre>
 
 By default, when the screen size or orientation change, the activity is restarted. This tells the activity to handle these configuration changes and remain running while the onConfigurationChange() method is called
 
