@@ -1,0 +1,3 @@
+[submodule "rahobbs/themes/cactus"]
+	path = rahobbs/themes/cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
