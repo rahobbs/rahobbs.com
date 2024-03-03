@@ -30,3 +30,9 @@ Here's what this project needs...
 ## :scroll: License
 This project is under the [MIT](https://github.com/binyamin/eleventy-garden/blob/main/LICENSE) license.
 Please adhere to the [code of conduct](https://github.com/binyamin/eleventy-garden/blob/main/.github/CODE_OF_CONDUCT.md).
+
+
+
+// TODO: 
+1. Add favicon.ico to /assets
+2. Write some notes

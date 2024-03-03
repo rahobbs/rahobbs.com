@@ -2,4 +2,4 @@
 layout: default
 ---
 # Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+I'm Rachael Hobbs. I'm an software engineer in New York City.

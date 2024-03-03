@@ -1,5 +1,7 @@
 ---
-title: About these notes
+title: Notes
 ---
-# About these Notes
-These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[food]].
+# Notes
+These are some fake notes.
+
+1. [[post]]
